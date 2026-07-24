@@ -89,10 +89,6 @@ python src/analysis/compare_to_bdot.py --policy results/ppo_best.zip
 
 Python · Stable-Baselines3 · Gymnasium · NumPy · Optuna · MATLAB/Simulink (validation)
 
-## Thesis document
-
-The full thesis, including the B-dot derivation, DRL theory (MDP/POMDP, PPO, RPPO, SAC), and complete statistical analysis, is available in [`thesis/`](./thesis) *(add link once uploaded)*.
-
 ## Acknowledgements
 
 Supervised by Ignacio Gómez Pérez, ETSIAE–UPM.
